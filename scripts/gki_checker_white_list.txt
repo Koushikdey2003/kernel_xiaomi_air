@@ -58,6 +58,7 @@ f fs/coredump.c
 f fs/f2fs/checkpoint.c
 f fs/f2fs/namei.c
 f fs/f2fs/super.c
+f fs/f2fs/sysfs.c
 f fs/fs-writeback.c
 f include/linux/dev_printk.h
 f include/linux/dynamic_debug.h
